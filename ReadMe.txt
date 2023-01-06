@@ -55,8 +55,27 @@
 					→OK
 
 一旦Upする。
-	kokokara
 		・もう少しサンプル見る
+			MainWindow5に持ってくる
+				DockPanel tabControlについか
+				・いろんなクラスを移植
+				・DrawingPage.xaml作成(Pageであること)
+					DockPanel
+					SelectFileを用意
+				↓
+				なんとか表示
+				↓
+				スタートのZoomは動いた
+				↓
+				ズームが効いてこない
+					OnZoomPanMouseWheel
+						→OK
+				↓
+				MouseUp Downで、ひっぱれない
+					→なんとなくOK
+				↓
+				
+
 
 		・svgを簡単に作ってみる
 			svgsample.svgを用意する
